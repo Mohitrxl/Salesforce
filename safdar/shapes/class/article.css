@@ -1,0 +1,18 @@
+
+html body {
+            
+    background-color: aquamarine;
+    font-size: xx-large;
+
+}
+
+.colorfont {
+    color: rgb(201, 12, 12);
+    font-weight: bold;
+    align-items: center;
+}
+h2{
+    margin: 10px;
+    padding: 50px;
+   background-color: blueviolet;
+}

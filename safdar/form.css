@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(71, 205, 9);
+    height: 0;
+    padding: 0;
+    
+}
+
+.logo img {
+    width: 15%;
+    height: 10%;
+    border: solid;
+    border-radius: 50%;
+}
+
+nav {
+    background-color: rgb(177, 232, 232);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Segoe UI';
+}
+
+.right ul {
+    display: flex;
+    gap: 35px;
+}
+
+.right ul li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.right ul li span {
+    padding: 0 5px;
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 55px;
+    margin: 70px;
+
+}
+
+.first span {
+    font-size: 40px;
+}
+
+section span img {
+    width: 82px;
+
+    margin: 0 25px;
+}
+
+section {}
+
+
+main {
+    background-color: rgb(9, 187, 187);
+    justify-content: center;
+    display: flex;
+}
+
+.hading {
+    text-decoration-color: rgb(217, 153, 153);
+}
+
+.botton {
+    width: 100px;
+    height: 50px;
+    background-color: rgb(142, 204, 226);
+    border: none;
+    color: white;
+    cursor: alias;
+}
+h1{
+    color: black;
+}
+h3{
+   
+    text-underline-position: below;
+    position: relative;
+    left: 15%;
+}
