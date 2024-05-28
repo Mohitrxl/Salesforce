@@ -10,8 +10,8 @@
      background-color: rgb(160, 234, 234);
      margin: 0% width: 100px;
      height: 100px;
-     
-    
+
+
 
  }
 
@@ -40,17 +40,18 @@
  }
 
  #box4 {
-    width: 10%;
-    height: 500%;
-    background-color: rgb(205, 201, 6);  
-    font-size: xx-large; 
+     width: 10%;
+     height: 500%;
+     background-color: rgb(205, 201, 6);
+     font-size: xx-large;
  }
- #box5{
-    width: 10%;
-    height: 500%;
-    background-color: rgb(47, 5, 126);  
-    font-size: xx-large; 
-    display: flex;
+
+ #box5 {
+     width: 10%;
+     height: 500%;
+     background-color: rgb(47, 5, 126);
+     font-size: xx-large;
+     display: flex;
  }
 
  ]
